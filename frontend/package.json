@@ -9,9 +9,11 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
     "@web3uikit/icons": "^1.1.2",
     "axios": "^1.3.6",
     "ethers": "^5.7.2",
+    "hardhat": "^2.22.5",
     "next": "14.2.4",
     "react": "^18",
     "react-dom": "^18",
